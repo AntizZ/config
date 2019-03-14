@@ -1,0 +1,6 @@
+server:
+  port: 8071
+
+user:
+  userName: xiejianwei
+  age: 25

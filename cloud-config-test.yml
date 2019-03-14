@@ -1,0 +1,6 @@
+server:
+  port: 8072
+
+user:
+  userName: zhangshan
+  age: 26
